@@ -146,7 +146,7 @@ This makes the entire system reproducible and portable.
 Clone the repository:
 
 ```
-git clone <repo_url>
+git clone https://github.com/Nebulem1/scalable-api-gateway.git
 cd project
 ```
 
